@@ -1,637 +1,558 @@
 <!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE README                          ║
-║  Replace YOUR_USERNAME, YOUR_EMAIL, and project links before use.    ║
-║  Keep the claims honest and remove any section that doesn't fit you.  ║
-╚══════════════════════════════════════════════════════════════════════╝
+  ADITYA KR VERMA — GITHUB PROFILE
+  A celestial / fairy-tech developer portfolio.
+  Personalize the name, links, and project descriptions to keep everything accurate.
 -->
-
-<!-- ======================== HERO SECTION ========================== -->
 
 <div align="center">
 
-  <!-- Optional custom banner:
-       Create a banner and save it as assets/github-banner.png
-       Then replace the comment below with:
-       <img src="assets/github-banner.png" alt="Developer banner" width="100%" />
-  -->
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:111827,100:00F5A0&text=YOUR_NAME&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=STUDENT%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=17&animation=fadeIn"
-    alt="Profile banner"
-    width="100%"
-  />
-
-  <h1>Hey there, I'm YOUR_NAME 👋</h1>
-
-  <h3>Student • Software Development Explorer • Builder of Things</h3>
-
-  <p>
-    <em>Learning deeply. Building consistently. Improving one commit at a time.</em>
-  </p>
-
-  <p>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5A0&label=PROFILE+VIEWS" alt="Profile views" />
-    </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED" alt="GitHub followers" />
-    </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-      <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00F5A0?style=for-the-badge&logo=gitbook&logoColor=white" alt="Always learning" />
-    </a>
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:07051A,25:20104A,55:5B21B6,78:0E7490,100:00F5A0&text=ADITYA%20KR%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=CODE%20WITH%20CURIOSITY%20%E2%9C%A6%20BUILD%20WITH%20PURPOSE&descAlignY=57&descSize=15&animation=twinkling" alt="Celestial Aditya Kr Verma banner" />
 
   <br />
 
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-dashboard">GitHub Stats</a> •
-  <a href="#-connect-with-me">Connect</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=Student+%E2%9C%A6+Developer+in+the+Making;Turning+Curiosity+Into+Code;HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Exploring+System+Design+One+Concept+at+a+Time;Dream+Big.+Build+Small.+Ship+Often." alt="Animated developer introduction" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&logo=github&logoColor=black" alt="Online status" />
+  <img src="https://img.shields.io/badge/MODE-CREATIVE-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="Creative mode" />
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning" />
+
+  <br /><br />
+
+  <a href="https://github.com/aditya-kr-verma">
+    <img src="https://komarev.com/ghpvc/?username=aditya-kr-verma&style=for-the-badge&color=8B5CF6&label=VISITORS+TO+MY+UNIVERSE" alt="Profile visitors" />
+  </a>
+  <a href="https://github.com/aditya-kr-verma?tab=followers">
+    <img src="https://img.shields.io/github/followers/aditya-kr-verma?style=for-the-badge&logo=github&label=TRIBE&color=00F5A0" alt="GitHub followers" />
+  </a>
+
+  <br /><br />
+
+  <a href="#-the-origin-story">✧ Origin</a> •
+  <a href="#-my-arcane-toolkit">✧ Toolkit</a> •
+  <a href="#-projects-from-my-workshop">✧ Projects</a> •
+  <a href="#-the-github-observatory">✧ Observatory</a> •
+  <a href="#-send-a-signal">✧ Connect</a>
 
 </div>
 
 ---
-
-<!-- ======================== ABOUT SECTION ========================= -->
-
-## `whoami` — About Me
-
-```js
-const developer = {
-  role: "Student & Aspiring Software Developer",
-  mindset: "Curious by default; improving by practice",
-  currentlyLearning: [
-    "Writing cleaner JavaScript",
-    "Building useful web applications",
-    "SQL and data modelling",
-    "System design fundamentals"
-  ],
-  comfortableWith: ["HTML", "CSS", "JavaScript", "SQL"],
-  interestedIn: [
-    "Full-stack development",
-    "Backend engineering",
-    "Software architecture",
-    "Developer tools",
-    "Open-source projects"
-  ],
-  philosophy: "Build > learn > reflect > repeat"
-};
-
-console.log("The best version is still in development.");
-```
-
-- 🎓 I'm a student exploring the world of software development.
-- 🧩 I enjoy understanding how websites, applications, databases, and systems work.
-- 🌐 My current foundation includes **HTML, CSS, JavaScript, and SQL**.
-- 🏗️ I'm learning **system design** and how to think beyond individual lines of code.
-- 🔍 I like exploring new tools, ideas, technologies, and ways to solve problems.
-- 🚀 My goal is to turn what I learn into practical, useful projects.
-- 🤝 I'm open to learning with other developers, collaborating, and contributing to open source.
-
-> **My mindset:** I don't need to know everything today. I need to keep learning, keep building, and keep showing up.
-
----
-
-## ⚡ Current Mission
 
 <div align="center">
 
-| Focus | Mission |
-|:---|:---|
-| `01` — Build | Create useful projects instead of only following tutorials |
-| `02` — Understand | Learn why the code works, not just what to copy |
-| `03` — Improve | Practice readability, debugging, and maintainability |
-| `04` — Explore | Discover new tools and engineering concepts |
-| `05` — Share | Document projects and learn in public |
+## ✦ WELCOME TO MY LITTLE CORNER OF THE DIGITAL COSMOS ✦
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5A0,50:8B5CF6,100:06B6D4" width="82%" alt="" />
+
+*Where logic meets imagination, and every commit is another tiny spell.*
 
 </div>
 
-### Currently exploring
+## 🪄 The Origin Story
 
-- [ ] Deeper JavaScript concepts and asynchronous programming
-- [ ] Responsive layouts and accessible interfaces
-- [ ] SQL queries, schema design, and data relationships
-- [ ] APIs, HTTP, and client-server communication
-- [ ] System design basics: caching, queues, scaling, and trade-offs
-- [ ] Git workflows, testing, and clean code
-- [ ] Open-source contribution workflows
+```javascript
+const aditya = {
+  name: "Aditya Kr Verma",
+  github: "aditya-kr-verma",
+  identity: "Student | Software Development Explorer",
+  knownLanguages: ["HTML", "CSS", "JavaScript", "SQL"],
+  currentlyExploring: [
+    "System Design",
+    "Better Software Architecture",
+    "APIs and Data",
+    "Building Useful Products"
+  ],
+  superpower: "Curiosity",
+  currentQuest: "Turn ideas into working software",
+  motto: "Stay curious. Build boldly. Keep becoming."
+};
 
-<!-- Tip: Check an item only when it genuinely reflects your current progress. -->
+console.log("The journey is loading... ✨");
+```
+
+I'm a student exploring software development, fascinated by the space between **an idea and a working product**.
+
+I enjoy creating for the web, learning how applications behave behind the scenes, understanding data, and exploring the design decisions that make software reliable.
+
+I'm not here to pretend I've mastered everything. I'm here to learn the fundamentals, build real things, ask better questions, and keep improving.
+
+- 🌌 **Frontend:** I enjoy shaping interfaces with HTML, CSS, and JavaScript.
+- 🧠 **Systems thinking:** I'm exploring SQL, system design, and how software components fit together.
+- 🛠️ **Builder energy:** I want each project to teach me something I can use in the next one.
+- 🧭 **Growth mindset:** New technologies are invitations to explore, not boxes to tick.
+- 🤝 **Community:** I'm interested in meeting curious developers and learning through collaboration.
+
+<div align="center">
+
+> ✨ *I may still be writing my origin story, but the next chapter is already compiling.*
+
+</div>
 
 ---
 
-<!-- ======================= TECH STACK ============================= -->
+## 🔮 The Developer's Spellbook
 
-## 🧰 Tech Stack
+<div align="center">
 
-### Languages & Web Foundations
+| ✦ | Focus | Current quest |
+|---|---|---|
+| `01` | Web foundations | Build accessible, responsive interfaces |
+| `02` | JavaScript | Write clearer logic and useful interactions |
+| `03` | SQL | Understand queries, relationships, and data |
+| `04` | System design | Learn components, trade-offs, and scalability |
+| `05` | Engineering habits | Improve debugging, Git, testing, and documentation |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,sql" alt="HTML, CSS, JavaScript and SQL icons" />
-</p>
+</div>
 
-| Technology | My focus |
-|:---|:---|
-| HTML5 | Semantic, accessible page structure |
-| CSS3 | Responsive layouts, animation, and visual polish |
-| JavaScript | Interactivity, DOM manipulation, and application logic |
-| SQL | Querying, filtering, joins, and relational data basics |
+### Current quests
 
-### Tools & Workflow
+- [ ] Build more projects from a blank file, not just from tutorials.
+- [ ] Practice modern JavaScript and asynchronous code.
+- [ ] Strengthen responsive design and accessibility.
+- [ ] Practice SQL joins, constraints, and relational modelling.
+- [ ] Understand HTTP, APIs, and client-server communication.
+- [ ] Explore caching, queues, reliability, and system design trade-offs.
+- [ ] Learn testing and improve code maintainability.
+- [ ] Make my first meaningful open-source contributions.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" alt="Git, GitHub, VS Code, Linux and Figma icons" />
-</p>
+<details>
+  <summary><strong>🌙 Quest log: how I like to learn</strong></summary>
 
-| Tool | How I use or explore it |
-|:---|:---|
-| Git | Version control and tracking changes |
-| GitHub | Hosting projects, collaboration, and documenting work |
-| VS Code | Everyday code editing |
-| Linux / CLI | Learning command-line workflows |
-| Figma | Exploring UI ideas and interface layouts |
+  <br />
 
-### Topics on my learning radar
+  1. Find a problem worth solving.
+  2. Break it into small pieces.
+  3. Build the simplest working version.
+  4. Debug until I understand the cause.
+  5. Write down what I learned.
+  6. Improve the design and try again.
 
-<p>
-  <img src="https://img.shields.io/badge/Responsive%20Design-Learning-00F5A0?style=flat-square" alt="Responsive design learning" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Exploring-06B6D4?style=flat-square" alt="REST APIs exploring" />
-  <img src="https://img.shields.io/badge/Databases-Practicing-7C3AED?style=flat-square" alt="Databases practicing" />
+</details>
+
+---
+
+## 🧙 My Arcane Toolkit
+
+### The core elements
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,sql&theme=dark" alt="HTML, CSS, JavaScript, SQL" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Visual%20Magic-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-Interaction-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Thinking-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+</div>
+
+### My workshop
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Git, GitHub, VS Code, Linux and Figma" />
+
+</div>
+
+| Tool / topic | What I'm learning or using it for |
+|---|---|
+| HTML | Meaningful document structure and accessibility |
+| CSS | Layout, responsive design, motion, and visual hierarchy |
+| JavaScript | Browser behavior, DOM, events, and application logic |
+| SQL | Querying and working with relational data |
+| Git | Tracking changes and experimenting safely |
+| GitHub | Sharing projects, collaboration, and documentation |
+| VS Code | My everyday coding workspace |
+| System design | How software pieces communicate and scale |
+| UI exploration | Turning rough ideas into clear interfaces |
+
+### Elements I am exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Exploring-8B5CF6?style=flat-square" alt="Frontend exploring" />
+  <img src="https://img.shields.io/badge/APIs-Learning-06B6D4?style=flat-square" alt="APIs learning" />
+  <img src="https://img.shields.io/badge/Databases-Practicing-00F5A0?style=flat-square" alt="Databases practicing" />
   <img src="https://img.shields.io/badge/System%20Design-Foundations-F97316?style=flat-square" alt="System design foundations" />
   <img src="https://img.shields.io/badge/Testing-On%20the%20roadmap-E879F9?style=flat-square" alt="Testing roadmap" />
 </p>
 
-<!-- Add a technology only when you have actually used it or are actively learning it. -->
+<sub>Skill badges describe my learning areas, not a claim of mastery.</sub>
 
 ---
 
-<!-- ====================== SKILL MATRIX ============================ -->
-
-## 🧠 My Developer Skill Matrix
+## 🏰 Projects From My Workshop
 
 <div align="center">
 
-| Area | Current direction |
-|:---|:---|
-| Frontend | Building responsive and interactive web experiences |
-| JavaScript | Strengthening fundamentals through practical work |
-| Databases | Practicing SQL and relational thinking |
-| System design | Learning components, trade-offs, and scalability basics |
-| Problem solving | Breaking large tasks into smaller steps |
-| Collaboration | Improving Git, documentation, and communication |
+*Every project is a portal: a problem on one side, a new lesson on the other.*
 
 </div>
 
-I prefer to describe my skills by what I'm working on rather than inventing percentages. Progress is better demonstrated through projects, commits, and the ability to explain decisions.
-
-### My engineering principles
-
-- **Clarity over cleverness:** code should be understandable.
-- **Small steps compound:** consistent progress beats occasional sprints.
-- **Debug with curiosity:** errors are evidence, not personal failure.
-- **Design for people:** usable software matters more than flashy effects.
-- **Document decisions:** future-me is another developer on the team.
-- **Stay adaptable:** tools change; fundamentals keep paying off.
-
----
-
-<!-- ==================== FEATURED PROJECTS ========================= -->
-
-## 🚀 Featured Projects
-
-> Pin your strongest repositories on your GitHub profile. Replace the examples below with real projects and working links.
+<!-- Replace these sample cards with your actual repositories and project descriptions. -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Project One — Web Experience</h3>
-      <p>A responsive website focused on clear design, accessibility, and smooth interactions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-      <p><a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View repository →</a></p>
+
+      <h3>🌿 Project One — The Web Realm</h3>
+
+      A responsive website with a thoughtful visual identity, clear navigation, and interactive details.
+
+      <br /><br />
+
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+      <br /><br />
+
+      **Quest:** Build a smooth and accessible user experience.
+
+      <br />
+
+      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
+
     </td>
     <td width="50%" valign="top">
-      <h3>🗃️ Project Two — SQL Practice</h3>
-      <p>A database-focused project exploring relational tables, queries, joins, and useful reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Data%20Modeling-Learning-7C3AED?style=flat-square" alt="Data modeling" />
-      </p>
-      <p><a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View repository →</a></p>
+
+      <h3>🗃️ Project Two — The Data Vault</h3>
+
+      A database practice project exploring tables, queries, relationships, and meaningful data retrieval.
+
+      <br /><br />
+
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Data%20Modelling-Learning-8B5CF6?style=flat-square" alt="Data modelling" />
+
+      <br /><br />
+
+      **Quest:** Turn raw data into useful answers.
+
+      <br />
+
+      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
+
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Project Three — JavaScript Tool</h3>
-      <p>A small application that solves one clear problem and demonstrates practical JavaScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/DOM-06B6D4?style=flat-square" alt="DOM" />
-      </p>
-      <p><a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">View repository →</a></p>
+
+      <h3>⚡ Project Three — The JavaScript Forge</h3>
+
+      A small web tool that solves one clear problem with practical JavaScript and a polished interface.
+
+      <br /><br />
+
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/DOM-06B6D4?style=flat-square" alt="DOM" />
+
+      <br /><br />
+
+      **Quest:** Make the browser do something useful.
+
+      <br />
+
+      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
+
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 Project Four — Learning Lab</h3>
-      <p>A collection of experiments, notes, prototypes, and concepts learned by building.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Experiments-111827?style=flat-square" alt="Experiments" />
-        <img src="https://img.shields.io/badge/Always%20Iterating-00F5A0?style=flat-square" alt="Always iterating" />
-      </p>
-      <p><a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">View repository →</a></p>
+
+      <h3>🧪 Project Four — The Experimentarium</h3>
+
+      A home for prototypes, notes, small experiments, and ideas that grow into something bigger.
+
+      <br /><br />
+
+      <img src="https://img.shields.io/badge/Experiments-111827?style=flat-square" alt="Experiments" />
+      <img src="https://img.shields.io/badge/Iteration-00F5A0?style=flat-square" alt="Iteration" />
+
+      <br /><br />
+
+      **Quest:** Learn by making, testing, and refining.
+
+      <br />
+
+      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
+
     </td>
   </tr>
 </table>
 
-### What makes a project worth pinning?
+### What belongs in a featured project?
 
-1. It solves a real or clearly stated problem.
-2. The README explains the purpose, features, setup, and screenshots.
-3. The code is organized and the repository is easy to navigate.
-4. The project includes a demo or clear instructions to run it.
-5. You can explain the decisions, limitations, and what you learned.
-
-<!-- Replace all example project names and URLs before publishing. -->
+- A clear purpose and real problem.
+- A screenshot or demo that works.
+- A readable README with setup instructions.
+- An honest list of technologies used.
+- Meaningful commits and understandable code.
+- A short note about challenges and lessons learned.
 
 ---
 
-<!-- =================== GITHUB DASHBOARD ========================== -->
-
-## 📊 GitHub Dashboard
+## 🌠 The GitHub Observatory
 
 <div align="center">
 
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=050816&title_color=00F5A0&icon_color=06B6D4&text_color=E5E7EB"
-    alt="GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=aditya-kr-verma&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=08061A&title_color=00F5A0&icon_color=06B6D4&text_color=F3E8FF"
+    height="180"
+    alt="GitHub statistics for Aditya"
   />
 
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=050816&title_color=00F5A0&text_color=E5E7EB"
-    alt="Most used programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kr-verma&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=08061A&title_color=00F5A0&text_color=F3E8FF"
+    height="180"
+    alt="Most used languages on GitHub"
   />
 
-  <br />
+  <br /><br />
 
   <img
-    width="90%"
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=F97316&currStreakLabel=00F5A0"
+    src="https://streak-stats.demolab.com?user=aditya-kr-verma&theme=tokyonight&hide_border=true&background=08061A&ring=8B5CF6&fire=00F5A0&currStreakLabel=06B6D4"
+    width="85%"
     alt="GitHub contribution streak"
   />
 
+  <br /><br />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-kr-verma&bg_color=08061A&color=F3E8FF&line=8B5CF6&point=00F5A0&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+
 </div>
 
-### Contribution Activity
+<sub>These cards are generated by external services. They may load slowly, hit rate limits, or display incomplete information. Language charts reflect repository contents, not your full skill level.</sub>
+
+---
+
+## 🐍 The Contribution Serpent
 
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=E5E7EB&line=00F5A0&point=06B6D4&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
+    src="https://raw.githubusercontent.com/aditya-kr-verma/aditya-kr-verma/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution snake"
     width="100%"
   />
 
 </div>
 
-<!--
-If a statistics service is down or rate-limited:
-- Keep your profile useful without it.
-- Try again later or remove the unavailable image.
-- Do not interpret a language chart as a complete measure of ability.
-- Public repositories and service limits can affect what is displayed.
--->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <!--
-  This image only works after you configure a GitHub Actions workflow
-  that generates output/ and commits the generated SVG to your repository.
-  Setup guide: https://github.com/Platane/snk
-  -->
-
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    alt="Contribution snake animation"
-    width="100%"
-  />
-
-</div>
-
-If the snake image doesn't load yet, that's normal: the workflow must be configured first. You can remove this section until it is working.
-
----
-
-<!-- ==================== DEVELOPER TERMINAL ======================= -->
-
-## 💻 Developer Terminal
-
-```bash
-┌──(you㉿github)-[~/developer-journey]
-└─$ whoami
-
-student | software-development explorer
-
-┌──(you㉿github)-[~/developer-journey]
-└─$ skills --current
-
-HTML · CSS · JavaScript · SQL · System Design (learning)
-
-┌──(you㉿github)-[~/developer-journey]
-└─$ mission --today
-
-learn something
-build something
-understand something
-repeat
-```
-
-### A small look at my workflow
-
-```text
-  IDEA
-   │
-   ▼
-  BREAK IT DOWN
-   │
-   ▼
-  BUILD A SMALL VERSION
-   │
-   ▼
-  TEST & DEBUG
-   │
-   ▼
-  DOCUMENT WHAT I LEARNED
-   │
-   ▼
-  ITERATE ────────────────────────┐
-   ▲                              │
-   └──────────────────────────────┘
-```
-
----
-
-<!-- ===================== LEARNING LOG ============================ -->
-
-## 📚 Learning Log
-
-I believe the best way to learn software engineering is to make the learning visible.
-
-### Current learning themes
-
-- **Frontend:** semantic HTML, responsive CSS, browser behavior, and JavaScript fundamentals.
-- **Data:** SQL queries, joins, relationships, constraints, and database design.
-- **Architecture:** APIs, system boundaries, caching, reliability, and trade-offs.
-- **Workflow:** Git branching, useful commits, issue tracking, and project documentation.
-- **Engineering habits:** debugging, testing, refactoring, and writing maintainable code.
-
-### Notes to my future self
-
-- Read the error message before searching for the answer.
-- Reproduce bugs with the smallest possible example.
-- Ask why a solution works, not only whether it works.
-- Commit meaningful changes with descriptive messages.
-- Keep project instructions accurate and easy to follow.
-- Revisit old code and improve it as understanding grows.
-- Make time to build without a tutorial open beside me.
-
----
-
-<!-- ===================== WHAT I VALUE ============================= -->
-
-## 🧩 What I Bring to a Team
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🔎 Curiosity</h3>
-      <p>I enjoy asking questions and exploring how systems work.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Practicality</h3>
-      <p>I want to turn concepts into working, understandable projects.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📈 Growth</h3>
-      <p>I value feedback, iteration, and steady improvement.</p>
-    </td>
-  </tr>
-</table>
-
-### Collaboration interests
-
-- Student and beginner-friendly open-source projects
-- Web development and small utility tools
-- Documentation and developer experience
-- Study groups and project-based learning
-- Constructive code reviews and knowledge sharing
-
-I'm still learning, so I value teams where questions are welcome and people care about improving the work together.
-
----
-
-<!-- ======================== FUN SECTION =========================== -->
-
-## ⚡ Beyond the Code
-
-```text
-Current mode  : Curious
-Default state : Learning
-Favorite loop : Try → Debug → Understand → Improve
-Long-term goal: Become a thoughtful, capable software engineer
-```
-
 <details>
-  <summary><strong>🧠 A few things I believe about coding</strong></summary>
+  <summary><strong>🛠️ Unlock the animation</strong></summary>
 
-  <br />
+  The snake image needs a GitHub Actions workflow to generate and publish the SVG. Until you configure it, the image may appear broken.
 
-  - The first solution is a starting point, not always the final one.
-  - Good names can make code easier to understand.
-  - A small working project teaches lessons that endless planning cannot.
-  - Reading documentation is a skill worth practicing.
-  - Simplicity is often harder—and more valuable—than unnecessary complexity.
-  - A useful README is part of a good project.
-  - Being a beginner is a stage, not an identity limit.
-
-</details>
-
-<details>
-  <summary><strong>🧪 My ideal weekend build</strong></summary>
-
-  <br />
-
-  Pick a problem, sketch the solution, build a small prototype, test it,
-  write down what went wrong, and publish the result with a clear README.
+  Setup instructions: [Platane/snk on GitHub](https://github.com/Platane/snk).
 
 </details>
 
 ---
 
-<!-- ======================== CONNECT =============================== -->
+## 🖥️ Transmission From My Terminal
 
-## 🌐 Connect With Me
+```text
+╭────────────────────────────────────────────────────╮
+│  ADITYA@DEV-REALM  ::  PERSONAL STATUS             │
+├────────────────────────────────────────────────────┤
+│  CLASS       Student / Developer in progress       │
+│  ELEMENTS    HTML · CSS · JavaScript · SQL          │
+│  QUEST       Explore system design                 │
+│  PASSION     Ideas that become useful software     │
+│  DIRECTIVE   Learn → Build → Debug → Improve       │
+╰────────────────────────────────────────────────────╯
+```
+
+```javascript
+while (curiosity) {
+  learnSomething();
+  buildSomething();
+  breakSomething();
+  debugUntilItMakesSense();
+  improveWhatYouBuilt();
+}
+```
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <!-- Replace with your real LinkedIn profile URL if you have one. -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <!-- Replace YOUR_EMAIL with your public contact email, or remove this badge. -->
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,50:00F5A0,100:06B6D4" width="72%" alt="" />
 
 </div>
-
-<p align="center">
-  <em>Always happy to meet people who enjoy building, learning, and sharing ideas.</em>
-</p>
 
 ---
 
-<!-- ======================= FOOTER ================================= -->
+## 🧭 My Engineering Compass
+
+| Principle | What it means to me |
+|---|---|
+| Clarity over cleverness | Make code easier for another person to understand |
+| Curiosity over ego | Ask questions and accept feedback |
+| Practice over performance | Build useful things instead of only looking impressive |
+| Fundamentals over hype | Understand the ideas behind the tools |
+| Progress over perfection | Start small, test, and iterate |
+| Collaboration over isolation | Share knowledge and learn from other people |
+
+### The way I approach a challenge
+
+```mermaid
+flowchart TD
+    A["💡 Idea"] --> B["🧩 Break it down"]
+    B --> C["🛠️ Build a small version"]
+    C --> D["🧪 Test and debug"]
+    D --> E["📚 Record what I learned"]
+    E --> F["✨ Improve"]
+    F --> C
+```
+
+---
+
+## 📖 The Learning Grimoire
+
+<details>
+  <summary><strong>🌐 Frontend — make the interface feel alive</strong></summary>
+
+  <br />
+
+  - Semantic HTML and accessible structure
+  - Responsive CSS and layout systems
+  - Motion that helps rather than distracts
+  - JavaScript events and browser APIs
+  - Loading, error, and empty states
+  - Performance and usability fundamentals
+
+</details>
+
+<details>
+  <summary><strong>🗄️ Data — make information useful</strong></summary>
+
+  <br />
+
+  - SELECT, WHERE, ORDER BY, and GROUP BY
+  - Joins and relationships
+  - Primary and foreign keys
+  - Constraints and data integrity
+  - Schema design fundamentals
+  - Query readability and performance basics
+
+</details>
+
+<details>
+  <summary><strong>🏗️ System design — understand the bigger picture</strong></summary>
+
+  <br />
+
+  - Clients, servers, and APIs
+  - Databases and data flow
+  - Caching and queues
+  - Reliability and failure scenarios
+  - Scaling concepts
+  - Trade-offs instead of one-size-fits-all answers
+
+</details>
+
+<details>
+  <summary><strong>🔧 Engineering craft — make the work maintainable</strong></summary>
+
+  <br />
+
+  - Git history and useful commit messages
+  - Debugging with small reproducible examples
+  - Basic testing habits
+  - Refactoring and naming
+  - Documentation that helps the next person
+  - Protecting secrets and configuration
+
+</details>
+
+---
+
+## 🦋 A Few Notes From the Creator
+
+<details>
+  <summary><strong>Why the fairy-tech aesthetic?</strong></summary>
+
+  <br />
+
+  I like the idea that technology can feel imaginative without losing its logic. The stars represent curiosity, the glow represents ideas taking shape, and the code is the craft that brings them to life.
+
+</details>
+
+<details>
+  <summary><strong>What does “developer in progress” mean?</strong></summary>
+
+  <br />
+
+  It means I am actively learning, building, making mistakes, improving my understanding, and creating a record of that journey. It is not a claim that I know everything.
+
+</details>
+
+<details>
+  <summary><strong>What am I hoping to find here?</strong></summary>
+
+  <br />
+
+  Interesting projects, thoughtful developers, opportunities to collaborate, and ideas that make me curious enough to open my editor.
+
+</details>
+
+---
+
+## 💌 Send a Signal
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00F5A0,100:050816"
-    alt="Footer decoration"
-    width="100%"
-  />
+  <a href="https://github.com/aditya-kr-verma">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
+  </a>
 
-  <p>
-    <strong>Thanks for stopping by!</strong>
-  </p>
+  <!-- Add your real LinkedIn URL if you want to share it publicly. -->
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> -->
+  <!--   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> -->
+  <!-- </a> -->
 
-  <p>
-    <code>Keep learning. Keep building. Stay curious.</code>
-  </p>
+  <!-- Add a public email only if you're comfortable sharing it. -->
+  <!-- <a href="mailto:YOUR_EMAIL"> -->
+  <!--   <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail" alt="Email" /> -->
+  <!-- </a> -->
 
-  <sub>Made with curiosity, coffee, and a lot of commits. ☕</sub>
+  <br /><br />
+
+  *If you're building something interesting, I would love to discover it.*
+
+</div>
+
+---
+
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:00F5A0,30:06B6D4,65:5B21B6,100:07051A&animation=twinkling" alt="Celestial footer" />
+
+  <h3>✦ Stay curious. Make beautiful things. Keep shipping. ✦</h3>
+
+  <p><code>console.log("The next level is built, not wished for.");</code></p>
+
+  <sub>Crafted with curiosity by Aditya Kr Verma • HTML • CSS • JavaScript • SQL</sub>
 
 </div>
 
 <!--
-========================= PERSONALIZATION CHECKLIST =========================
-
-[ ] Replace YOUR_NAME with the name you want to display.
-[ ] Replace every YOUR_USERNAME with your exact GitHub username.
-[ ] Replace YOUR_EMAIL with an email you are comfortable making public.
-[ ] Replace YOUR_LINKEDIN with your actual LinkedIn username or remove the link.
-[ ] Replace PROJECT_ONE through PROJECT_FOUR with real repositories.
-[ ] Remove any technology or claim that does not reflect your experience.
-[ ] Pin three to six strong repositories on your GitHub profile.
-[ ] Add screenshots or GIFs to your best project READMEs.
-[ ] Make sure every link works and every image loads.
-[ ] Configure the contribution snake workflow before expecting its image to appear.
-[ ] Preview the README on GitHub's dark and light themes.
-[ ] Update the learning checklist as your skills develop.
-
-============================ END OF README ================================
+╔══════════════════════════════════════════════════════════════════════╗
+║                      FINAL PERSONALIZATION CHECK                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ 1. Save this as README.md in the repository named aditya-kr-verma.   ║
+║ 2. Confirm the repository is public.                                 ║
+║ 3. Replace sample project descriptions with actual project links.   ║
+║ 4. Add real LinkedIn/email links only if you want them public.       ║
+║ 5. Configure the snake workflow if you want that animation.         ║
+║ 6. Check image loading after committing.                             ║
+║ 7. Remove any section that doesn't represent your journey.           ║
+║                                                                      ║
+║ NOTE: GitHub README supports a subset of HTML and does not run        ║
+║ arbitrary JavaScript or CSS. Animations here use remote SVG/GIF       ║
+║ services, so some depend on external availability and their limits.  ║
+╚══════════════════════════════════════════════════════════════════════╝
 -->
-
-<!-- ====================== README MAINTENANCE NOTES ====================== -->
-
-<!--
-PROFILE QUALITY CHECK
-
-The README should be a doorway into your work, not a substitute for your work.
-A visitor should quickly understand:
-1. Who you are.
-2. What you can currently build.
-3. What you're learning next.
-4. Which repositories are worth opening.
-5. How to contact you.
-
-VISUAL GUIDELINES
-
-- Keep the strongest banner near the top.
-- Use a consistent palette rather than many unrelated colors.
-- Avoid too many moving images; motion should support the content.
-- Keep alt text on meaningful images.
-- Keep decorative images from overwhelming project links.
-- Use short descriptions that explain outcomes.
-- Remove empty or broken sections instead of leaving placeholders.
-
-PROJECT README CHECKLIST
-
-A good project README often includes:
-- Project name and one-sentence summary.
-- Screenshot, demo GIF, or live demo link.
-- Problem the project solves.
-- Main features.
-- Tech stack actually used.
-- Installation instructions.
-- Environment variable setup, without real secrets.
-- How to run the project locally.
-- Example usage.
-- Known limitations.
-- Future improvements.
-- Credits and license where appropriate.
-
-GITHUB PROFILE CHECKLIST
-
-- Use a clear profile photo or avatar.
-- Add a short GitHub bio.
-- Add your current learning or project focus.
-- Pin projects that show different strengths.
-- Keep repositories named clearly.
-- Add topics to relevant repositories.
-- Include a license when appropriate.
-- Make issues and contribution instructions clear when inviting collaborators.
-- Never commit passwords, tokens, API keys, or private configuration.
-- Prefer small, meaningful commits over artificial activity.
-- Be honest about project status and contributions.
-
-STATISTICS NOTES
-
-- Stats cards depend on third-party services.
-- Third-party services may rate-limit, change, or become temporarily unavailable.
-- Contribution graphs can reflect GitHub's contribution rules and privacy settings.
-- Language statistics show repository language bytes, not your complete skill level.
-- A long streak is not the same thing as software engineering ability.
-- Use stats as decoration, not as proof of expertise.
-
-ACCESSIBILITY NOTES
-
-- Write useful alt text for informative images.
-- Do not use color as the only way to communicate information.
-- Use meaningful link text.
-- Keep tables simple enough to read on narrow screens.
-- Avoid excessive emoji in long descriptions.
-- Make sure the content remains understandable when images fail to load.
-
-MAINTENANCE RHYTHM
-
-Once a month:
-- Review project links.
-- Remove stale learning goals.
-- Add a real project if one is ready.
-- Check whether the stats cards load.
-- Fix broken images.
-- Update the current focus.
-- Keep the profile accurate.
-
-A NOTE ON CREDIBILITY
-
-A profile does not need to claim mastery to look professional.
-Specific projects, clear documentation, thoughtful decisions, and honest progress
-create a stronger impression than inflated skill bars or exaggerated titles.
-
-========================== END MAINTENANCE NOTES ==========================
