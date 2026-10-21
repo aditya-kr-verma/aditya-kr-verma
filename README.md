@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/aditya-kr-verma">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&duration=3000&pause=900&color=B28B45&center=true&vCenter=true&width=700&lines=Building+beautiful+things+with+technology+%E2%9C%A8;Curiosity+into+code.+Ideas+into+reality.;Learning+today.+Building+for+tomorrow.;Computer+Science+%7C+Creative+Engineering" alt="Animated introduction" />
 </a>
 
