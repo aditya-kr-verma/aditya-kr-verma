@@ -18,8 +18,8 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=C9A45C&label=VISITORS)](https://github.com/YOUR-GITHUB-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-kr-verma)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=C9A45C&label=VISITORS)](https://github.com/aditya-kr-verma)
 
 </div>
 
@@ -167,7 +167,7 @@ Thinking beyond tutorials and imagining what technology could become.
 
 An electricity-saving web app concept focused on encouraging energy awareness and helping reduce environmental impact.
 
-**Explore:** [View repository](https://github.com/YOUR-GITHUB-USERNAME/EcoAstra)
+**Explore:** [View repository](https://github.com/aditya-kr-verma/EcoAstra)
 
 </td>
 <td width="50%" valign="top">
@@ -202,7 +202,7 @@ An online point-of-sale concept exploring digital billing, inventory workflows, 
 
 A space for future experiments, prototypes, small tools, and ideas that deserve a first version.
 
-**Explore:** [Browse my repositories](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+**Explore:** [Browse my repositories](https://github.com/aditya-kr-verma?tab=repositories)
 
 </td>
 </tr>
