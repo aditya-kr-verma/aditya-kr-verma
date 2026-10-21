@@ -1,39 +1,25 @@
-<!--
-  ADITYA KR VERMA — GITHUB PROFILE
-  A celestial / fairy-tech developer portfolio.
-  Personalize the name, links, and project descriptions to keep everything accurate.
--->
+ <!-- Replace YOUR-GITHUB-USERNAME with your GitHub username -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:07051A,25:20104A,55:5B21B6,78:0E7490,100:00F5A0&text=ADITYA%20KR%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=CODE%20WITH%20CURIOSITY%20%E2%9C%A6%20BUILD%20WITH%20PURPOSE&descAlignY=57&descSize=15&animation=twinkling" alt="Celestial Aditya Kr Verma banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFF8E7,25:F4D99B,55:DDF4E7,80:DCEEFF,100:FFE5D5&text=ADITYA%20KUMAR%20VERMA&fontSize=38&fontColor=493C2C&fontAlignY=40&desc=Developer%20in%20the%20Making%20%E2%80%A2%20Builder%20of%20Ideas%20%E2%80%A2%20Forever%20Curious&descSize=13&descAlignY=59&animation=fadeIn" alt="Aditya Kumar Verma — Developer Portfolio Banner" />
 
-  <br />
+<br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=Student+%E2%9C%A6+Developer+in+the+Making;Turning+Curiosity+Into+Code;HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Exploring+System+Design+One+Concept+at+a+Time;Dream+Big.+Build+Small.+Ship+Often." alt="Animated developer introduction" />
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&duration=3000&pause=900&color=B28B45&center=true&vCenter=true&width=700&lines=Building+beautiful+things+with+technology+%E2%9C%A8;Curiosity+into+code.+Ideas+into+reality.;Learning+today.+Building+for+tomorrow.;Computer+Science+%7C+Creative+Engineering" alt="Animated introduction" />
+</a>
 
-  <br />
+<br/>
 
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&logo=github&logoColor=black" alt="Online status" />
-  <img src="https://img.shields.io/badge/MODE-CREATIVE-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="Creative mode" />
-  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning" />
+<img src="https://img.shields.io/badge/✦_CREATIVE-FFF1D1?style=for-the-badge&labelColor=FFF1D1&color=FFF1D1" alt="Creative" />
+<img src="https://img.shields.io/badge/⌘_TECH_EXPLORER-E1F4E8?style=for-the-badge&labelColor=E1F4E8&color=E1F4E8" alt="Tech Explorer" />
+<img src="https://img.shields.io/badge/◈_BUILDING_IN_PUBLIC-E2EEFF?style=for-the-badge&labelColor=E2EEFF&color=E2EEFF" alt="Building in public" />
 
-  <br /><br />
+<br/><br/>
 
-  <a href="https://github.com/aditya-kr-verma">
-    <img src="https://komarev.com/ghpvc/?username=aditya-kr-verma&style=for-the-badge&color=8B5CF6&label=VISITORS+TO+MY+UNIVERSE" alt="Profile visitors" />
-  </a>
-  <a href="https://github.com/aditya-kr-verma?tab=followers">
-    <img src="https://img.shields.io/github/followers/aditya-kr-verma?style=for-the-badge&logo=github&label=TRIBE&color=00F5A0" alt="GitHub followers" />
-  </a>
-
-  <br /><br />
-
-  <a href="#-the-origin-story">✧ Origin</a> •
-  <a href="#-my-arcane-toolkit">✧ Toolkit</a> •
-  <a href="#-projects-from-my-workshop">✧ Projects</a> •
-  <a href="#-the-github-observatory">✧ Observatory</a> •
-  <a href="#-send-a-signal">✧ Connect</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=C9A45C&label=VISITORS)](https://github.com/YOUR-GITHUB-USERNAME)
 
 </div>
 
@@ -41,487 +27,210 @@
 
 <div align="center">
 
-## ✦ WELCOME TO MY LITTLE CORNER OF THE DIGITAL COSMOS ✦
+### ✧ A LITTLE ABOUT ME
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5A0,50:8B5CF6,100:06B6D4" width="82%" alt="" />
-
-*Where logic meets imagination, and every commit is another tiny spell.*
+**Not just learning technology. Learning how to create with it.**
 
 </div>
 
-## 🪄 The Origin Story
+Hey there! I'm **Aditya Kumar Verma**, a Computer Science and Engineering student at **Lovely Professional University**, exploring the intersection of technology, creativity, and real-world problem solving.
 
-```javascript
-const aditya = {
-  name: "Aditya Kr Verma",
-  github: "aditya-kr-verma",
-  identity: "Student | Software Development Explorer",
-  knownLanguages: ["HTML", "CSS", "JavaScript", "SQL"],
-  currentlyExploring: [
-    "System Design",
-    "Better Software Architecture",
-    "APIs and Data",
-    "Building Useful Products"
-  ],
-  superpower: "Curiosity",
-  currentQuest: "Turn ideas into working software",
-  motto: "Stay curious. Build boldly. Keep becoming."
-};
-
-console.log("The journey is loading... ✨");
-```
-
-I'm a student exploring software development, fascinated by the space between **an idea and a working product**.
-
-I enjoy creating for the web, learning how applications behave behind the scenes, understanding data, and exploring the design decisions that make software reliable.
-
-I'm not here to pretend I've mastered everything. I'm here to learn the fundamentals, build real things, ask better questions, and keep improving.
-
-- 🌌 **Frontend:** I enjoy shaping interfaces with HTML, CSS, and JavaScript.
-- 🧠 **Systems thinking:** I'm exploring SQL, system design, and how software components fit together.
-- 🛠️ **Builder energy:** I want each project to teach me something I can use in the next one.
-- 🧭 **Growth mindset:** New technologies are invitations to explore, not boxes to tick.
-- 🤝 **Community:** I'm interested in meeting curious developers and learning through collaboration.
-
-<div align="center">
-
-> ✨ *I may still be writing my origin story, but the next chapter is already compiling.*
-
-</div>
-
----
-
-## 🔮 The Developer's Spellbook
-
-<div align="center">
-
-| ✦ | Focus | Current quest |
-|---|---|---|
-| `01` | Web foundations | Build accessible, responsive interfaces |
-| `02` | JavaScript | Write clearer logic and useful interactions |
-| `03` | SQL | Understand queries, relationships, and data |
-| `04` | System design | Learn components, trade-offs, and scalability |
-| `05` | Engineering habits | Improve debugging, Git, testing, and documentation |
-
-</div>
-
-### Current quests
-
-- [ ] Build more projects from a blank file, not just from tutorials.
-- [ ] Practice modern JavaScript and asynchronous code.
-- [ ] Strengthen responsive design and accessibility.
-- [ ] Practice SQL joins, constraints, and relational modelling.
-- [ ] Understand HTTP, APIs, and client-server communication.
-- [ ] Explore caching, queues, reliability, and system design trade-offs.
-- [ ] Learn testing and improve code maintainability.
-- [ ] Make my first meaningful open-source contributions.
-
-<details>
-  <summary><strong>🌙 Quest log: how I like to learn</strong></summary>
-
-  <br />
-
-  1. Find a problem worth solving.
-  2. Break it into small pieces.
-  3. Build the simplest working version.
-  4. Debug until I understand the cause.
-  5. Write down what I learned.
-  6. Improve the design and try again.
-
-</details>
-
----
-
-## 🧙 My Arcane Toolkit
-
-### The core elements
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,sql&theme=dark" alt="HTML, CSS, JavaScript, SQL" />
-
-  <br /><br />
-
-  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Visual%20Magic-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-Interaction-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Thinking-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-</div>
-
-### My workshop
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Git, GitHub, VS Code, Linux and Figma" />
-
-</div>
-
-| Tool / topic | What I'm learning or using it for |
-|---|---|
-| HTML | Meaningful document structure and accessibility |
-| CSS | Layout, responsive design, motion, and visual hierarchy |
-| JavaScript | Browser behavior, DOM, events, and application logic |
-| SQL | Querying and working with relational data |
-| Git | Tracking changes and experimenting safely |
-| GitHub | Sharing projects, collaboration, and documentation |
-| VS Code | My everyday coding workspace |
-| System design | How software pieces communicate and scale |
-| UI exploration | Turning rough ideas into clear interfaces |
-
-### Elements I am exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Exploring-8B5CF6?style=flat-square" alt="Frontend exploring" />
-  <img src="https://img.shields.io/badge/APIs-Learning-06B6D4?style=flat-square" alt="APIs learning" />
-  <img src="https://img.shields.io/badge/Databases-Practicing-00F5A0?style=flat-square" alt="Databases practicing" />
-  <img src="https://img.shields.io/badge/System%20Design-Foundations-F97316?style=flat-square" alt="System design foundations" />
-  <img src="https://img.shields.io/badge/Testing-On%20the%20roadmap-E879F9?style=flat-square" alt="Testing roadmap" />
-</p>
-
-<sub>Skill badges describe my learning areas, not a claim of mastery.</sub>
-
----
-
-## 🏰 Projects From My Workshop
-
-<div align="center">
-
-*Every project is a portal: a problem on one side, a new lesson on the other.*
-
-</div>
-
-<!-- Replace these sample cards with your actual repositories and project descriptions. -->
+I believe the best way to learn is to build — experiment with an idea, break things, understand why, and come back with something better.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-      <h3>🌿 Project One — The Web Realm</h3>
+#### ☀️ THE PERSON
 
-      A responsive website with a thoughtful visual identity, clear navigation, and interactive details.
+- 🎓 B.Tech CSE — Computer Science Core
+- 🏛️ Lovely Professional University
+- 📅 Class of 2026–2030
+- 🧠 Always learning something new
+- 🌱 Growing one project at a time
 
-      <br /><br />
+</td>
+<td width="50%" valign="top">
 
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+#### ✨ THE MINDSET
 
-      <br /><br />
+- 💡 Ideas deserve to become real
+- 🛠️ Learn by building, not just watching
+- 🌍 Create things that solve actual problems
+- 🤝 Open to collaboration and new perspectives
+- 🚀 Progress over perfection
 
-      **Quest:** Build a smooth and accessible user experience.
-
-      <br />
-
-      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>🗃️ Project Two — The Data Vault</h3>
-
-      A database practice project exploring tables, queries, relationships, and meaningful data retrieval.
-
-      <br /><br />
-
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Data%20Modelling-Learning-8B5CF6?style=flat-square" alt="Data modelling" />
-
-      <br /><br />
-
-      **Quest:** Turn raw data into useful answers.
-
-      <br />
-
-      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-      <h3>⚡ Project Three — The JavaScript Forge</h3>
-
-      A small web tool that solves one clear problem with practical JavaScript and a polished interface.
-
-      <br /><br />
-
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/DOM-06B6D4?style=flat-square" alt="DOM" />
-
-      <br /><br />
-
-      **Quest:** Make the browser do something useful.
-
-      <br />
-
-      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>🧪 Project Four — The Experimentarium</h3>
-
-      A home for prototypes, notes, small experiments, and ideas that grow into something bigger.
-
-      <br /><br />
-
-      <img src="https://img.shields.io/badge/Experiments-111827?style=flat-square" alt="Experiments" />
-      <img src="https://img.shields.io/badge/Iteration-00F5A0?style=flat-square" alt="Iteration" />
-
-      <br /><br />
-
-      **Quest:** Learn by making, testing, and refining.
-
-      <br />
-
-      <a href="https://github.com/aditya-kr-verma">Explore my repositories →</a>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-### What belongs in a featured project?
-
-- A clear purpose and real problem.
-- A screenshot or demo that works.
-- A readable README with setup instructions.
-- An honest list of technologies used.
-- Meaningful commits and understandable code.
-- A short note about challenges and lessons learned.
-
 ---
-
-## 🌠 The GitHub Observatory
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aditya-kr-verma&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=08061A&title_color=00F5A0&icon_color=06B6D4&text_color=F3E8FF"
-    height="180"
-    alt="GitHub statistics for Aditya"
-  />
+### ◈ MY CREATIVE UNIVERSE
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kr-verma&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=08061A&title_color=00F5A0&text_color=F3E8FF"
-    height="180"
-    alt="Most used languages on GitHub"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://streak-stats.demolab.com?user=aditya-kr-verma&theme=tokyonight&hide_border=true&background=08061A&ring=8B5CF6&fire=00F5A0&currStreakLabel=06B6D4"
-    width="85%"
-    alt="GitHub contribution streak"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-kr-verma&bg_color=08061A&color=F3E8FF&line=8B5CF6&point=00F5A0&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub activity graph"
-  />
+*Different interests. One curious mind.*
 
 </div>
 
-<sub>These cards are generated by external services. They may load slowly, hit rate limits, or display incomplete information. Language charts reflect repository contents, not your full skill level.</sub>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/code.png" width="52" alt="Code icon"/>
+
+**THE BUILDER**
+
+<br/>
+
+Turning concepts into functional projects and useful digital experiences.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/idea.png" width="52" alt="Idea icon"/>
+
+**THE EXPLORER**
+
+<br/>
+
+Discovering new tools, technologies, and creative ways to solve problems.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="52" alt="Rocket icon"/>
+
+**THE DREAMER**
+
+<br/>
+
+Thinking beyond tutorials and imagining what technology could become.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 The Contribution Serpent
-
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/aditya-kr-verma/aditya-kr-verma/output/github-contribution-grid-snake.svg"
-    alt="Animated GitHub contribution snake"
-    width="100%"
-  />
+### ⌘ THE TECH LAB
+
+*My toolkit is evolving with every experiment.*
 
 </div>
 
-<details>
-  <summary><strong>🛠️ Unlock the animation</strong></summary>
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-  The snake image needs a GitHub Actions workflow to generate and publish the SVG. Until you configure it, the image may appear broken.
+#### 💻 LANGUAGES & DEVELOPMENT
 
-  Setup instructions: [Platane/snk on GitHub](https://github.com/Platane/snk).
+<br/>
 
-</details>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp&theme=light" alt="Development technologies"/>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+#### ⚙️ TOOLS & WORKFLOW
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" alt="Development tools"/>
+
+</td>
+</tr>
+</table>
+
+> **Note:** The icons above are a starter stack, not a claim of expertise. Keep only the technologies you actually use, and add others as you learn them.
 
 ---
 
-## 🖥️ Transmission From My Terminal
-
-```text
-╭────────────────────────────────────────────────────╮
-│  ADITYA@DEV-REALM  ::  PERSONAL STATUS             │
-├────────────────────────────────────────────────────┤
-│  CLASS       Student / Developer in progress       │
-│  ELEMENTS    HTML · CSS · JavaScript · SQL          │
-│  QUEST       Explore system design                 │
-│  PASSION     Ideas that become useful software     │
-│  DIRECTIVE   Learn → Build → Debug → Improve       │
-╰────────────────────────────────────────────────────╯
-```
-
-```javascript
-while (curiosity) {
-  learnSomething();
-  buildSomething();
-  breakSomething();
-  debugUntilItMakesSense();
-  improveWhatYouBuilt();
-}
-```
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,50:00F5A0,100:06B6D4" width="72%" alt="" />
+### ✧ PROJECT GALLERY
+
+*Little experiments today. Bigger possibilities tomorrow.*
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧭 My Engineering Compass
+#### 🌿 EcoAstra
 
-| Principle | What it means to me |
-|---|---|
-| Clarity over cleverness | Make code easier for another person to understand |
-| Curiosity over ego | Ask questions and accept feedback |
-| Practice over performance | Build useful things instead of only looking impressive |
-| Fundamentals over hype | Understand the ideas behind the tools |
-| Progress over perfection | Start small, test, and iterate |
-| Collaboration over isolation | Share knowledge and learn from other people |
+**Technology with a purpose.**
 
-### The way I approach a challenge
+An electricity-saving web app concept focused on encouraging energy awareness and helping reduce environmental impact.
 
-```mermaid
-flowchart TD
-    A["💡 Idea"] --> B["🧩 Break it down"]
-    B --> C["🛠️ Build a small version"]
-    C --> D["🧪 Test and debug"]
-    D --> E["📚 Record what I learned"]
-    E --> F["✨ Improve"]
-    F --> C
-```
+**Explore:** [View repository](https://github.com/YOUR-GITHUB-USERNAME/EcoAstra)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📖 The Learning Grimoire
+#### 🐝 SocialBee
 
-<details>
-  <summary><strong>🌐 Frontend — make the interface feel alive</strong></summary>
+**Community makes us grow.**
 
-  <br />
+A university community platform concept where batchmates can connect, share notes, seek help, and discover opportunities together.
 
-  - Semantic HTML and accessible structure
-  - Responsive CSS and layout systems
-  - Motion that helps rather than distracts
-  - JavaScript events and browser APIs
-  - Loading, error, and empty states
-  - Performance and usability fundamentals
+**Explore:** [View repository](https://github.com/YOUR-GITHUB-USERNAME/SocialBee)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-  <summary><strong>🗄️ Data — make information useful</strong></summary>
+#### 🧾 Bill O'Merchant
 
-  <br />
+**Making everyday business smarter.**
 
-  - SELECT, WHERE, ORDER BY, and GROUP BY
-  - Joins and relationships
-  - Primary and foreign keys
-  - Constraints and data integrity
-  - Schema design fundamentals
-  - Query readability and performance basics
+An online point-of-sale concept exploring digital billing, inventory workflows, and online ordering.
 
-</details>
+**Explore:** [View repository](https://github.com/YOUR-GITHUB-USERNAME/Bill-OMerchant)
 
-<details>
-  <summary><strong>🏗️ System design — understand the bigger picture</strong></summary>
+</td>
+<td width="50%" valign="top">
 
-  <br />
+#### ✦ The Next Experiment
 
-  - Clients, servers, and APIs
-  - Databases and data flow
-  - Caching and queues
-  - Reliability and failure scenarios
-  - Scaling concepts
-  - Trade-offs instead of one-size-fits-all answers
+**Something new is always brewing.**
 
-</details>
+A space for future experiments, prototypes, small tools, and ideas that deserve a first version.
 
-<details>
-  <summary><strong>🔧 Engineering craft — make the work maintainable</strong></summary>
+**Explore:** [Browse my repositories](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
 
-  <br />
+</td>
+</tr>
+</table>
 
-  - Git history and useful commit messages
-  - Debugging with small reproducible examples
-  - Basic testing habits
-  - Refactoring and naming
-  - Documentation that helps the next person
-  - Protecting secrets and configuration
-
-</details>
+> Replace project links with your real repository URLs. If a project is still an idea or prototype, describe it that way rather than implying it's finished or publicly available.
 
 ---
-
-## 🦋 A Few Notes From the Creator
-
-<details>
-  <summary><strong>Why the fairy-tech aesthetic?</strong></summary>
-
-  <br />
-
-  I like the idea that technology can feel imaginative without losing its logic. The stars represent curiosity, the glow represents ideas taking shape, and the code is the craft that brings them to life.
-
-</details>
-
-<details>
-  <summary><strong>What does “developer in progress” mean?</strong></summary>
-
-  <br />
-
-  It means I am actively learning, building, making mistakes, improving my understanding, and creating a record of that journey. It is not a claim that I know everything.
-
-</details>
-
-<details>
-  <summary><strong>What am I hoping to find here?</strong></summary>
-
-  <br />
-
-  Interesting projects, thoughtful developers, opportunities to collaborate, and ideas that make me curious enough to open my editor.
-
-</details>
-
----
-
-## 💌 Send a Signal
 
 <div align="center">
 
-  <a href="https://github.com/aditya-kr-verma">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
-  </a>
+### ◈ MY GITHUB ACTIVITY
 
-  <!-- Add your real LinkedIn URL if you want to share it publicly. -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> -->
-  <!--   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> -->
-  <!-- </a> -->
+*Every contribution is another step in the journey.*
 
-  <!-- Add a public email only if you're comfortable sharing it. -->
-  <!-- <a href="mailto:YOUR_EMAIL"> -->
-  <!--   <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail" alt="Email" /> -->
-  <!-- </a> -->
+<br/>
 
-  <br /><br />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=fffdf7&color=9c7a40&line=c8a86a&point=78b99a&area=true&area_color=e8f3e8&hide_border=true&custom_title=THE%20CONTRIBUTION%20LANDSCAPE" alt="GitHub contribution activity graph"/>
 
-  *If you're building something interesting, I would love to discover it.*
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=fffdf7&title_color=9c7a40&text_color=625d53&icon_color=78b99a&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=fffdf7&title_color=9c7a40&text_color=625d53" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub achievements"/>
 
 </div>
 
@@ -529,30 +238,66 @@ flowchart TD
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:00F5A0,30:06B6D4,65:5B21B6,100:07051A&animation=twinkling" alt="Celestial footer" />
+### ☁️ CURRENTLY IN MY WORLD
 
-  <h3>✦ Stay curious. Make beautiful things. Keep shipping. ✦</h3>
+<table>
+<tr>
+<td align="center" width="33%">
 
-  <p><code>console.log("The next level is built, not wished for.");</code></p>
+**01 — LEARN**
 
-  <sub>Crafted with curiosity by Aditya Kr Verma • HTML • CSS • JavaScript • SQL</sub>
+<br/>
+
+Understanding fundamentals and exploring new technologies.
+
+</td>
+<td align="center" width="33%">
+
+**02 — BUILD**
+
+<br/>
+
+Turning knowledge into small, real, working projects.
+
+</td>
+<td align="center" width="33%">
+
+**03 — IMPROVE**
+
+<br/>
+
+Refining ideas through experimentation and feedback.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                      FINAL PERSONALIZATION CHECK                    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ 1. Save this as README.md in the repository named aditya-kr-verma.   ║
-║ 2. Confirm the repository is public.                                 ║
-║ 3. Replace sample project descriptions with actual project links.   ║
-║ 4. Add real LinkedIn/email links only if you want them public.       ║
-║ 5. Configure the snake workflow if you want that animation.         ║
-║ 6. Check image loading after committing.                             ║
-║ 7. Remove any section that doesn't represent your journey.           ║
-║                                                                      ║
-║ NOTE: GitHub README supports a subset of HTML and does not run        ║
-║ arbitrary JavaScript or CSS. Animations here use remote SVG/GIF       ║
-║ services, so some depend on external availability and their limits.  ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
+---
+
+<div align="center">
+
+### ✉ LET'S BUILD SOMETHING MEANINGFUL
+
+Have an interesting idea, a project to collaborate on, or a technology worth exploring?
+
+I'm always happy to connect with curious minds and learn from people who love building things.
+
+<br/>
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-242424?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-DCEEFF?style=for-the-badge&logo=linkedin&logoColor=245580" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+*Made with curiosity, a little creativity, and a lot of room to grow.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFE5D5,25:DCEEFF,55:DDF4E7,80:F4D99B,100:FFF8E7" alt="Pastel gradient footer"/>
+
+</div>
