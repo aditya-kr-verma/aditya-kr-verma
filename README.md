@@ -144,7 +144,7 @@ Thinking beyond tutorials and imagining what technology could become.
 </tr>
 </table>
 
-> **Note:** The icons above are a starter stack, not a claim of expertise. Keep only the technologies you actually use, and add others as you learn them.
+> **Note:** The icons above are a starter stack, not a claim of expertise. I am still practicing and working over it and progressing my skills.
 
 ---
 
