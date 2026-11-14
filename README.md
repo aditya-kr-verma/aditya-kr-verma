@@ -19,7 +19,6 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-kr-verma)
-[![Profile Views](https://komarev.com/ghpvc/?username=aditya-kr-verma&style=flat-square&color=C9A45C&label=VISITORS)](https://github.com/aditya-kr-verma)
 
 </div>
 
