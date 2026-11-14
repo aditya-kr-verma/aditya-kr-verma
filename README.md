@@ -208,7 +208,7 @@ A space for future experiments, prototypes, small tools, and ideas that deserve 
 </tr>
 </table>
 
-> Replace project links with your real repository URLs. If a project is still an idea or prototype, describe it that way rather than implying it's finished or publicly available.
+> Building projects that feel like usable being in daily lives and in a production grade. 
 
 ---
 
