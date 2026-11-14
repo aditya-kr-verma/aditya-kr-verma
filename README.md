@@ -259,11 +259,11 @@ I'm always happy to connect with curious minds and learn from people who love bu
 
 <br/>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/aditya-kr-verma">
   <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-242424?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/aditya-kumar-verma-02b0a72b0/">
   <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-DCEEFF?style=for-the-badge&logo=linkedin&logoColor=245580" alt="Connect on LinkedIn"/>
 </a>
 
