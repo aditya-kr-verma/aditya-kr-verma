@@ -210,33 +210,6 @@ A space for future experiments, prototypes, small tools, and ideas that deserve 
 
 > Building projects that feel like usable being in daily lives and in a production grade. 
 
----
-
-<div align="center">
-
-### ◈ MY GITHUB ACTIVITY
-
-*Every contribution is another step in the journey.*
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=fffdf7&color=9c7a40&line=c8a86a&point=78b99a&area=true&area_color=e8f3e8&hide_border=true&custom_title=THE%20CONTRIBUTION%20LANDSCAPE" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=fffdf7&title_color=9c7a40&text_color=625d53&icon_color=78b99a&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=fffdf7&title_color=9c7a40&text_color=625d53" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub achievements"/>
-
-</div>
-
----
-
-<div align="center">
 
 ### ☁️ CURRENTLY IN MY WORLD
 
